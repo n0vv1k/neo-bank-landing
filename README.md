@@ -6,8 +6,6 @@
 
 **NEOBANK** — это концептуальный лендинг для финансовой экосистемы будущего. Дизайн выполнен в премиальной стилистике "Silver & Dark", с акцентом на иммерсивный пользовательский опыт, плавные анимации и высокотехнологичный визуал.
 
-[Посмотреть демо](#) ---
-
 ## ✨ Ключевые особенности (WOW-эффекты)
 
 Проект демонстрирует современные подходы к фронтенд-разработке:
@@ -34,7 +32,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone [https://github.com/your-username/neobank-silver.git](https://github.com/your-username/neobank-silver.git)
+   git clone [https://n0vv1k.github.io/neo-bank-landing/](https://n0vv1k.github.io/neo-bank-landing/)
    ```
 
    Перейдите в папку проекта:
@@ -42,12 +40,8 @@
 2. Bash
 
    ```
-   cd neobank-silver
+   cd neo-bank-landing
    ```
 
 3. Запустите проект:
    Просто откройте index.html в вашем браузере или используйте расширение Live Server в VS Code для корректной работы анимаций.
-
-```
-
-```
